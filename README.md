@@ -1,2 +1,2 @@
 ##Pong
-![Alt text](/pong_screenshot.jpg.jpg?raw=true "Pong Screenshot")
+![Alt text](/pong_screenshot.jpg?raw=true "Pong Screenshot")
